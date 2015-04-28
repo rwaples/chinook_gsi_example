@@ -1,0 +1,7 @@
+## population Pi values from gsi_sim.  Likelihood estimates of type indicated by file name: rep_unit_pi_full_em_mle.txt
+RepUnit	Est.Pi
+Norton	0.11024597
+Upper_Yukon	0.03252154
+Middle_Yukon	0.11907704
+Lower_Yukon	0.10442748
+Bristol_Bay_Kusk	0.63372797
