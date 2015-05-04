@@ -1,7 +1,7 @@
-## reporting unit Pi values from gsi_sim.  NumBurnIn= 50000  NumSweeps= 999  NumValuesInAverage= 998
+## reporting unit Pi values from gsi_sim.  NumBurnIn= 50000  NumSweeps= 20000  NumValuesInAverage= 19999
 RepUnit	Mean.Pi	St.Dev.of.Pis
-Norton	0.11015743	0.00720631
-Upper_Yukon	0.03272775	0.00368948
-Middle_Yukon	0.11880838	0.00697176
-Lower_Yukon	0.10434134	0.00773181
-Bristol_Bay_Kusk	0.63396511	0.01126311
+Norton	0.11023764	0.00702507
+Upper_Yukon	0.03252580	0.00375377
+Middle_Yukon	0.11907477	0.00679109
+Lower_Yukon	0.10448370	0.00739384
+Bristol_Bay_Kusk	0.63367809	0.01093757
